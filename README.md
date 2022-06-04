@@ -1,11 +1,10 @@
 - 👋 Hi, I’m @loca2
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-hola soy loca2
-me inte  la programac
-ion
+- 👀 I’m interested in ...la programacion web
+- 🌱 I’m currently learning ...no se nada
+- 💞️ I’m looking to collaborate on ...por favor ayudanme
+- 📫 How to reach me ...+573134419472
+
+
 actualmente casi no se nada,pero me gusta mas lo web
 si me pueden colaborar gracias
 +573134419472
